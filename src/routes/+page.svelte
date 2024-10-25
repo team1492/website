@@ -1,6 +1,10 @@
 <script lang="ts">
+  import Header from '$lib/comp/Header.svelte';
+  import Footer from '$lib/comp/Footer.svelte';
   import icon from '$lib/img/icon.svg';
 </script>
+
+<Header bind:offsetHeight={headerHeight}></Header>
 
 <div class="container">
   <div class="my-3">
@@ -27,3 +31,15 @@
     <img src={icon} alt="Team CAUTION 1492 Robotics Team Logo" />
   </div>
 </div>
+
+<div class="sticky-bottom">
+  <Footer bind:offsetHeight={footerHeight}></Footer>
+</div>
+
+<style>
+  .sticky-bottom {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+</style>
