@@ -42,10 +42,10 @@
       <div class="my-3 fs-5">
         <p>
           Team CAUTION, originally founded as the Arizona Community Robotics
-          Team in 2004 with the support of Microchip Technology, is based at
+          Team in 2004 with the support of Microchip Technology, is based at Microchip's Tempe Campus
           <a
             href="https://www.google.com/maps/search/?api=1&query=2100 W 14th St, Tempe, AZ 85281"
-            class="text-nowrap">Microchip's Tempe Campus (2100 W 14th St, Tempe, AZ 85281)</a
+            class="text-nowrap">(2100 W 14th St, Tempe, AZ 85281)</a
           >. Since its inception, the team has provided students from across
           Arizona the opportunity to participate in FIRST Robotics. Driven by a
           desire to offer students from schools without robotics programs a
