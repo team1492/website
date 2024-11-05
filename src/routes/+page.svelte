@@ -62,12 +62,11 @@
           of Microchip, we are committed to equipping the next generation of problem
           solvers and compassionate leaders, empowering them to make a positive impact
           through the transformative power of robotics.
-
-<br/>
-<br/>
-Learn about <a href="https://www.firstinspires.org">FIRST Robotics programs</a> for all ages.
-
-
+          <br />
+          <br />
+          Learn about
+          <a href="https://www.firstinspires.org">FIRST Robotics programs</a> for
+          all ages.
         </p>
       </div>
       <div class="row justify-content-center gx-5 d-none d-lg-flex">
