@@ -64,8 +64,8 @@
           through the transformative power of robotics.
           <br />
           <br />
-          Learn about
-          <a href="https://www.firstinspires.org">FIRST Robotics programs</a> for
+          Learn about <a href="https://www.firstinspires.org/robotics/frc">FIRST Robotics Competition</a> or
+          <a href="https://www.firstinspires.org">other FIRST Robotics programs</a> for
           all ages.
         </p>
       </div>
